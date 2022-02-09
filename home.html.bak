@@ -1,0 +1,36 @@
+<!doctype html>
+
+<html>
+ 
+ <head>
+   <title> About Monique </title>
+   <meta charset = "utf-8"></meta>
+   <meta name = "viewport" content = "width=device-width initial-scale =1"/>
+   <meta name = "Author" content = "Monique Williams" />
+   <meta name = "Keywords" content = "Monique, about me"/>
+   <link rel="icon" href="../Assets/icon.jpg">
+ </head>
+  <body style = 'background:url("../Assets/piv.png")'>
+	<header>
+		<hr/>
+		<h1 style = "color:Purple"> <center>All About Monique Williams</center> </h1>
+		<hr/> 
+		<br>
+	</header>
+	<center>
+	<a href="home.html" style = "color:purple"> Home  </a> &nbsp; 
+	<a href="Personal.html" style = "color:purple"> Personal  </a> &nbsp; 
+	<a href="Professional.html" style = "color:purple"> Professional </a> &nbsp; 
+	<a href="Development.html" style = "color:purple"> Personality	Trait and Personal Development</a> &nbsp;
+	<a href="reference.html" style = "color:purple"> References </a>
+	</center>
+   <center>
+   <a href='mailto:moniqwshen@gmail.com?subject= More about Monique Williams'>
+   <img src = "../Assets/icon.jpg" width ='500' height ='500'/> </a>
+   </center>
+	<footer>
+		<hr size = "2"/>
+			Copyrighted &copy; Monique Williams, February 7,2022
+	</footer>
+	</body>
+ </html>

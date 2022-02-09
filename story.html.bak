@@ -1,0 +1,36 @@
+<!doctype html>
+
+<html>
+ 
+ <head>
+   <title> 	Storyboard </title>
+   <meta charset = "utf-8"></meta>
+   <meta name = "viewport" content = "width=device-width initial-scale =1"/>
+   <meta name = "Author" content = "Monique Williams" />
+   <meta name = "Keywords" content = "Monique, about me"/>
+   <link rel="icon" href="../Assets/icon.jpg">
+ </head>
+  <body style = 'background:url("../Assets/black.jpg")'>
+	<header>
+		<hr/>
+		<h1 style = "color:Purple"> <center> Storyboard</center> </h1>
+		<hr/> 
+		<br>
+	</header>
+	<center>
+	<a href="home.html" style = "color:purple"> Home  </a> &nbsp; 
+	<a href="Personal.html" style = "color:purple"> Personal  </a> &nbsp; 
+	<a href="Professional.html" style = "color:purple"> Professional </a> &nbsp; 
+	<a href="Development.html" style = "color:purple"> Personality	Trait and Personal Development</a> &nbsp;
+	<a href="reference.html" style = "color:purple"> References </a> &nbsp;
+	<a href="story.html" style = "color:purple"> Storyboard  </a> 
+	</center>
+   <center>
+		 <img src = "../Assets/story.jpg" width ='500' height ='500'/>
+   </center>
+	<footer>
+		<hr size = "2"/>
+			Copyrighted &copy; Monique Williams, February 7,2022
+	</footer>
+	</body>
+ </html>

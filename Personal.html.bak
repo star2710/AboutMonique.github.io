@@ -1,0 +1,77 @@
+<!doctype html>
+
+<html>
+ 
+ <head>
+   <title> Personal </title>
+   <meta charset = "utf-8"></meta>
+   <meta name = "viewport" content = "width=device-width initial-scale =1"/>
+   <meta name = "Author" content = "Monique Williams" />
+   <meta name = "Keywords" content = "Monique, personal"/>
+   <link rel="icon" href="../Assets/icon.jpg">
+ </head>
+  <body style = 'background:url("../Assets/pic.jpg")'>
+	<header>
+		<hr/>
+		<h1 id = "C4" style = "color:Purple"> <center>Personal things about Monqiue</center> </h1>
+		<hr/> 
+		<br>
+	</header>
+	<section>
+	<center>
+	<a href="home.html" style = "color:purple"> Home  </a> &nbsp; 
+	<a href="Personal.html" style = "color:purple"> Personal  </a> &nbsp; 
+	<a href="Professional.html" style = "color:purple"> Professional </a> &nbsp; 
+	<a href="Development.html" style = "color:purple"> Personality	Trait and Personal Development</a> &nbsp;
+	<a href="reference.html" style = "color:purple"> References </a>
+	</center>
+		<h2 style = "color:Purple"> <center> My lifes Motto</center></h2>
+			<p style = "color:blue"> Everybody wants to be famous, but nobody wants to do the work. I live by that. You grind hard so you can play hard. 
+			At the end of the day, you put all the work in, and eventually it’ll pay off. It could be in a year, it could be in 30 years. 
+			Eventually, your hard work will pay off. —<mark> Kevin Hart </mark>
+			</p>
+		<h3 style = "color:Purple"> <center>My Likes, Dislikes and Hobbies</center></h3>
+		<table border = '0' cellpadding = '20' cellspacing = '5' width = '100%' >
+				<tr>
+					<th> <u>Likes</u> </th>
+					<th> <u>Dislikes</u></th>
+					<th> <u>Hobbies </u></th>
+				</tr>
+				<tr>
+					<td>
+						<ol type = "1">
+						<li> My <u>number 1</u> favorite thing would have to be my love for KFC</li>
+						<img src = "../Assets/kfc.jpg" width ='200' height ='100'/>
+						<li> Another love of mine is my love for music. My favorite song would have to be <a href ="https://www.youtube.com/watch?v=iGU66wsjIPA"target = "_blank">
+						High Fashion </a> by my all time favourite artist Roddy Ricch.</li>
+						<img src = "../Assets/roddy.jpg" width ='200' height ='150'/>
+						</ol>
+					</td>
+					<td>
+						My only dislike is my hatred towards anything that is associated with fish.
+						<br>
+						<img src = "../Assets/fish.jpg" width ='200' height ='150'/>
+					</td>
+					<td>
+						My favorite thing to do to pass time is to read. Here is a look of some of my favorite books.
+						<br>
+						<img src = "../Assets/book.jpg" width ='100' height ='100'/> 
+						<img src = "../Assets/book2.jpg" width ='200' height ='100'/>
+					</td>
+				</tr>
+			</table>
+			<h3 style= "color:Purple"><center>Personality Test</center></h3>
+			<center> <img src = "../Assets/test.png" width ='1000' height ='450'/> </center>
+			<p>
+				 Based on the personality test that was done, I would have to agree with the results. Based on my results I can say that this test is valid.
+				 The test shows that I am 45% introverted and 46% antisocial wihich is true seeing as I am not a very friendly or outgoing person.
+				 It also states that I am 88% easygoing and preoccupied with relaxation which is very accurate as I am a person that does not make certain things cause stress in my life.
+			</p>
+		</section>
+		<a href="#C4">Jump to top of the page</a>
+		<footer>
+		<hr size = "2"/>
+			Copyrighted &copy; Monique Williams, January 30,2022
+	    </footer>
+   </body>
+</html>

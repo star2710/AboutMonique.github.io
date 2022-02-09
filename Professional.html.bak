@@ -1,0 +1,90 @@
+<!doctype html>
+
+<html>
+ 
+ <head>
+   <title> Professional </title>
+   <meta charset = "utf-8"></meta>
+   <meta name = "viewport" content = "width=device-width initial-scale =1"/>
+   <meta name = "Author" content = "Monique Williams" />
+   <meta name = "Keywords" content = "Monique, professional, vision, mission"/>
+   <link rel="icon" href="../Assets/icon.jpg">
+ </head>
+  <body style = 'background:url("../Assets/pink.jpg")'>
+	<header>
+		<hr/>
+		<h1 style = "color:purple"> <center>Professional Aspect about Monqiue</center> </h1>
+		<hr/> 
+		<br>
+	</header>
+	<section> 
+	<center>
+	<a href="home.html" style = "color:white"> Home  </a> &nbsp; 
+	<a href="Personal.html" style = "color:white"> Personal  </a> &nbsp; 
+	<a href="Professional.html" style = "color:white"> Professional </a> &nbsp;
+	<a href="Development.html" style = "color:white"> Personality	Trait and Personal Development</a> &nbsp;
+	<a href="reference.html" style = "color:white"> References </a>
+	</center>
+		<h2> <center> Monique Sheneil Williams</center></h2>
+		<h3><center>Lilliput District Rose Hall P.O. St.James</center></h3>
+		</h3><center>Tel: 1 (876) 350 - 5998</center></h3>
+		</h3><center>Email: moniqwshen@gmail.com</center></h3>
+		<h3>Education/ Qualification</h3>
+		<h4>September 2020, University of Technology Jamaica</h4>
+		<h4>September 2019-2020, Montego Bay Community College</h4>
+		<h4>September 2014-2019, William Knibb Memorial High School</h4>
+		<h4>September 2009-2014, John Rollins Success Primary School</h4>
+           <h3> Qualifications </h3>
+		   <table border="1" cellpadding="6" cellspacing="0">
+				<tr>
+				<th>Subjects</th>
+				<th>Grades</th>
+				</tr>
+			<tr>
+				<td>Human and social Biology</td>
+				<td>II</td>
+			</tr>
+			<tr>
+				<td>Economics</td>
+				<td>II</td>
+			</tr>
+			<tr>
+				<td>Mathematics</td>
+				<td>II</td>
+			</tr>
+			<tr>
+				<td>Social Studies</td>
+				<td>II</td>
+			</tr>
+			<tr>
+				<td>English A</td>
+				<td>II</td>
+			</tr>
+			<tr>
+				<td>Spainsh</td>
+				<td>III</td>
+			</tr>
+			<tr>
+				<td>Principle of Accounts</td>
+				<td>I</td>
+			</tr>
+			<tr>
+				<td>Information Technology</td>
+				<td>I</td>
+			</tr>
+		</table>
+		<h3>Experiences</h3>
+			<p>Radius Global Solutions (April 2021 - December 2021) Position: Customer Service Agent.</p>
+		<h3> Personal</h3>
+		    <p> Date of Birth: October 27, 2002 Marital Status: Single Nationality: Jamaican Sex: female. </p>
+		<h3> Mission Statement</h3>
+		<p>I seek to pursue a successful career while making a dynamic contribution.</p>
+		<h3>Vision Statement</h3>
+		<p> My vision is to finish college and get my Bsc. in computing. </p>
+    </section>  
+	<footer>
+		<hr size = "2"/>
+			Copyrighted &copy; Monique Williams, January 30,2022
+	</footer>
+  </body>	
+</html>

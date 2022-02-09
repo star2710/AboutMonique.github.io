@@ -1,0 +1,39 @@
+<!doctype html>
+
+<html>
+ 
+ <head>
+   <title> Reference </title>
+   <meta charset = "utf-8"></meta>
+   <meta name = "viewport" content = "width=device-width initial-scale =1"/>
+   <meta name = "Author" content = "Monique Williams" />
+   <meta name = "Keywords" content = "Monique, reference"/>
+   <link rel="icon" href="../Assets/icon.jpg">
+ </head>
+  <body style = 'background:url("../Assets/pic2.jpg")'>
+	<header>
+		<hr/>
+		<h1 style = "color:	Purple"> <center> References</center> </h1>
+		<hr/> 
+		<br>
+	</header>
+	<section>
+	<center>
+	<a href="home.html" style = "color:purple"> Home  </a> &nbsp; 
+	<a href="Personal.html" style = "color:purple"> Personal  </a> &nbsp; 
+	<a href="Professional.html" style = "color:purple"> Professional </a> &nbsp;
+	<a href="Development.html" style = "color:purple"> Personality	Trait and Personal Development</a> &nbsp;
+	<a href="reference.html" style = "color:purple"> References </a>
+	</center>
+	<p style = "color:black">
+		Rohn, E. J., &amp; Widener, C. (2015). Twelve pillars: A novel. Jim Rohn International and Chris Widener International. 
+	</p>
+	<p>
+		Roddy Ricch - High Fashion (feat. Mustard). (2019, December 6). [Video]. YouTube. https://www.youtube.com/watch?v=iGU66wsjIPA
+	</p>
+	<footer>
+		<hr size = "2"/>
+			Copyrighted &copy; Monique Williams, February 7,2022
+	</footer>
+	</body>
+ </html>

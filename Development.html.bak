@@ -1,0 +1,78 @@
+<!doctype html>
+
+<html>
+ 
+ <head>
+   <title> Personality Trait </title>
+   <meta charset = "utf-8"></meta>
+   <meta name = "viewport" content = "width=device-width initial-scale =1"/>
+   <meta name = "Author" content = "Monique Williams" />
+   <meta name = "Keywords" content = "Monique, personality trait, development"/>
+   <link rel="icon" href="../Assets/icon.jpg">
+ </head>
+  <body style = 'background:url("../Assets/white.jpg")'>
+	<header>
+		<hr/>
+		<h1 style = "color:Purple"> <center> Personality Trait and Personal Development</center> </h1>
+		<hr/> 
+		<br>
+	</header>
+	<section>
+	<center>
+	<a href="home.html" style = "color:purple"> Home  </a> &nbsp; 
+	<a href="Personal.html" style = "color:purple"> Personal  </a> &nbsp; 
+	<a href="Professional.html" style = "color:purple"> Professional </a> &nbsp;
+	<a href="Development.html" style = "color:purple"> Personality	Trait and Personal Development</a> &nbsp;
+	<a href="reference.html" style = "color:purple"> References </a>
+	</center>
+		<h2 style = "color:Purple"> <center>My Strengths</center> </h2>
+		<p style = "color:blue"> Some strengths that I have developed within my 19 years of living is Ambitious, Independent, Trustworthy, Resposible and Open minded. 
+		Growing up I was not the person to obtain many strengths but as I grow and become more mature i have developed some strengths that I think play a major role in my everyday life.
+	`	</p>
+		<p style = "color:blue" >
+			Being open minded has played a big role into who I am today. Growing up I was not the person that will go out and try new things. 
+			I was a person that stuck to the same thing everyday, with what i eat, what i wear and even places I visit.
+			The past four years of my life I have stepped out of my comfort zone and started to try new things and I can say that was the best decsison I ever made.
+			I was very happy to experience new things and make new memorys.
+		</p>
+		<p style = "color:blue">
+			Growing up in a sigle parent household i watched how my mother workrd har to raise me. This has caused me to become independent.
+			Just by watching her and seeing the things that she did on her own motivated me to become an independent person. 
+			Now i can finally say over the past 3 years i have grown independent enough to support myself and also support my mother when needed.
+		</p>
+		<p style = "color:blue">
+			Lastly, I can say that over the last few years I have become a very responsible person. I have not only become more respnsible with time management but I have also become responsible with money management.
+			During the recent pandemic which caused alot of persons to become laid off it has taught me to become more responsible with my spending and 
+			it also taught me the responsiblities of life.
+		</p>
+		<h2 style = "color:Purple"> <center>My Assessment on the book Twelve Pillars</center> </h2>
+		<p style = "color:blue">
+			Based on the book Twelve Pillars I find that there is a lot of things that I can apply to my life. 
+			When Charlie told Michael to write down his goals that is something that I personally think is a great way to achieve goals in life. 
+			Writing down your goals as stated brings it to reality. 
+			With this system I believe that when you write down your goals you are set on achieving them especially if there is a reward in the end. 
+		</p>
+		<p style = "color:blue">
+			Time management was also a topic mentioned in the book. 
+			Charlie stated that persons spend time on what is urgent rather that what is important. 
+			I can say that this is a fact because I mostly spend my time on urgent matters but based off what 
+			I have read I can now say that time management is a very important thing that I will be working on in my life. 
+		</p>
+		<p style = "color:blue">
+			Charlie mentioned surrounding yourself with the best. 
+			I have to agree with the fact that surrounding yourself with the best set of people is a great way to be successful in life. 
+			If persons are surrounding by persons that are not productive and constantly doubting themselves and others then there is no room for success there. 
+			Surrounding myself with the best a practice that I try to apply in my everyday life. 
+		</p>
+		<p style = "color:blue">
+			Lastly, Charlie mentioned that a successful person is always a life-long learner. 
+			As a person going into a world where technology is always evolving I can’t go into that world thinking I know everything. 
+			There will be many things to learn along the way and that is why when Charlie said a successful person is always a life-long learner I understood that.
+		</p>	
+	</section>  
+	<footer>
+		<hr size = "2"/>
+			Copyrighted &copy; Monique Williams, January 30,2022
+	</footer>
+  </body>
+</html>
